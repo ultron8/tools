@@ -1,6 +1,14 @@
 # tools
 A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
 
+## Contents
+
+- [Platforms](#platforms)
+- [Chrome Add Ons](#chrome-add-ons)
+- [Google Workspace Marketplace Apps](#google-workspace-marketplace-apps)
+- [StartUp Bootcamp](#startup-bootcamp)
+
+
 ### Chrome Add Ons
 * [DF Tube (Distraction Free for YouTube™)](https://chrome.google.com/webstore/detail/df-tube-distraction-free/mjdepdfccjgcndkmemponafgioodelna)
 * [LanguageTool - Grammatik- und Rechtschreibprüfung](https://chrome.google.com/webstore/detail/grammar-and-spell-checker/oldceeleldhonbafppcapldpdifcinji)
