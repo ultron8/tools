@@ -50,6 +50,11 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
 * [Entrepreneurs Club Cologne](https://entrepreneurs-club-cologne.de/)
 * [STARTPLATZ](https://www.startplatz.de/)
 
+
+
+
+
+
 ### Rapid Prototyping
 
 * [UI](#ui) - User Interface Tools
@@ -59,7 +64,60 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
 	* [Flutter Flow](https://app.flutterflow.io/) - build flutter apps visually
 	* [UIzard](https://uizard.io/) - quick n easy interactive app mockups (AI-powered digital design)
 	* need to continue with my miro board from here
+	* [Anima](https://www.animaapp.com/) - create fully interactive prototypes using Figma, XD, and Sketch & transform these designs to developer-friendly React and HTML
+
+* [UX](#ux) - User Experience Tools
+ 	* [Jitter Video](https://jitter.video/subscribe/) - fast mockups for app experience
+
 
 ### Front-End Development
+* [Landing Page](#landingpage) - Landing Page Tools
+ 	* [landingpage checklist]{landingpage.fyi) - complete library of resources for building high-​converting landing pages
+	* [On Universe](https://onuniverse.com/) - makes it easy for anyone to make a great looking website in minutes
 
-* [On Universe](https://onuniverse.com/) - makes it easy for anyone to make a great looking website in minutes
+* [WEBSITE](#website) - Website
+ 	* [Stackshare](https://stackshare.io/) - set of technologies an organization uses to build a web or mobile application
+
+
+### Directory of Tools / Startup & Founder Content, Tools
+
+* [Product Hunt](https://www.producthunt.com/) - platform for new tools
+* [Startup Stash](https://startupstash.com/) - directory of tools and resources for startups and entrepreneurs
+* [first1000 User](first1000.co) - How founders got their first 1000 customers
+* 
+
+### Design
+
+* [Resources for designers](https://resourcesfordesigner.com/) -  directory of tools and resources for designer to build your startup
+* [Design Resources](https://www.designresourc.es/) -  list of the best design resources handpicked from around the web
+* [Chechlist Design](https://www.checklist.design/?ref=designresourc.es) -  a collection of the best UX & UI practices
+
+
+### Online Courses
+* [Design Code](https://designcode.io/) - Learn design and code by building real apps with React and Swift & Co.
+
+
+### Marketing
+* [Neon Tools](https://neontools.io/) - free online marketing toolbox for your digital campaigns and accounts (includes URL Shortener, Hashtag Analyzer, Instagram Analytics & Co)
+* [Storrito](https://storrito.com/) - Create and scheduleInstagram Stories comfortably from your desktop
+
+### Advertisement
+* [Adroll](https://www.adroll.com/) - AI-driven marketing software, you can get sophisticated audience targeting, cross-channel engagement, advanced measurement
+* 
+
+
+### Operations
+* [noon / n8n](n8n.io) - workflow automation tool
+* [SevDesk](sevdesk.com) - Create invoices and estimates, take care of accounting, customer and warehouse management
+
+### Security
+* [Wickr](https://wickr.com/product-tiers/) - Secure messaging, voice and video calling, file sharing
+
+### Remote Work
+* [Contra](https://contra.com/) - find remote, freelance and flexible work
+
+### ERP
+* [Bonitasoft](https://www.bonitasoft.com/) - open source, fully supports digital operations and IT modernization
+
+
+
