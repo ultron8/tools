@@ -68,6 +68,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
 
 * [UX](#ux) - User Experience Tools
  	* [Jitter Video](https://jitter.video/subscribe/) - fast mockups for app experience
+ 	* [App Promo](https://previewed.app/app-promo-video/?ref=betalist) - eye-catching promo videos in minutes
 
 
 ### Front-End Development
@@ -89,6 +90,8 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
 * [loom](loom.com) - Record quick videos of your screen and cam. An essential tool for hybrid workplaces
 * [embed](embed.com) - Upload videos then embed them to your website. We do everything for you: video hosting, streaming, and generating leads
 * [Marketing Examples](https://marketingexamples.com/) - gallery of real world marketing examples from successful companies
+* [Marketing Technology Landscape](https://chiefmartec.com/2017/05/marketing-techniology-landscape-supergraphic-2017/) - supergraphic
+* [Submit.co](submit.co) - press for startups by topics & categories
 
 ### Design
 * [Resources for designers](https://resourcesfordesigner.com/) -  directory of tools and resources for designer to build your startup
