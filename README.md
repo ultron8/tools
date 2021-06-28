@@ -92,6 +92,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
 * [Marketing Examples](https://marketingexamples.com/) - gallery of real world marketing examples from successful companies
 * [Marketing Technology Landscape](https://chiefmartec.com/2017/05/marketing-techniology-landscape-supergraphic-2017/) - supergraphic
 * [Submit.co](submit.co) - press for startups by topics & categories
+* [kumu](https://kumu.io/) - makes it easy to organize complex data into relationship maps that are beautiful to look at and a pleasure to use
 
 ### Design
 * [Resources for designers](https://resourcesfordesigner.com/) -  directory of tools and resources for designer to build your startup
