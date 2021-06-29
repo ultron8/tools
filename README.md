@@ -78,6 +78,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
 
 * [WEBSITE](#website) - Website
  	* [Stackshare](https://stackshare.io/) - set of technologies an organization uses to build a web or mobile application
+ 	* [Designing for Performance](https://speakerdeck.com/lara/designing-for-performance?slide=46) - Lara Hogan how to build up performance on design for web & mobile exp
 
 
 ### Directory of Tools / Startup & Founder Content, Tools
