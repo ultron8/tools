@@ -81,6 +81,11 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
  	* [Designing for Performance](https://speakerdeck.com/lara/designing-for-performance?slide=46) - Lara Hogan how to build up performance on design for web & mobile exp
 
 
+### Development Tools
+* [Sourcetrail](https://www.sourcetrail.com/) - dependency visualization that lets you understand, refactor and maintain unfamiliar source code.
+
+
+
 ### Directory of Tools / Startup & Founder Content, Tools
 * [Product Hunt](https://www.producthunt.com/) - platform for new tools
 * [Startup Stash](https://startupstash.com/) - directory of tools and resources for startups and entrepreneurs
