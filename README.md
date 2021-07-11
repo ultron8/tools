@@ -66,6 +66,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
 	* [UIzard](https://uizard.io/) - quick n easy interactive app mockups (AI-powered digital design)
 	* need to continue with my miro board from here
 	* [Anima](https://www.animaapp.com/) - create fully interactive prototypes using Figma, XD, and Sketch & transform these designs to developer-friendly React and HTML
+	* [draftbit](https://draftbit.com/) - Create, customize, and launch mobile apps all from your browser. Source code included.
 
 * [UX](#ux) - User Experience Tools
  	* [Jitter Video](https://jitter.video/subscribe/) - fast mockups for app experience
@@ -79,6 +80,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
  	* [landingpage checklist]{landingpage.fyi) - complete library of resources for building high-​converting landing pages
 	* [On Universe](https://onuniverse.com/) - makes it easy for anyone to make a great looking website in minutes
 	* [Vev Design](https://www.vev.design/) - all-in-one platform to create some web exp.
+	* [lapa ninja](lapa.ninja) - landing page examples
 
 * [WEBSITE](#website) - Website
  	* [Stackshare](https://stackshare.io/) - set of technologies an organization uses to build a web or mobile application
@@ -111,6 +113,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
 * [Squoosh](https://squoosh.app/) - image optimzer for google in secs for ur site
 * [mycolor space](https://mycolor.space/) - perfect color matching
 * [listnr](https://listnr.tech/) - start podcast without recording anything 
+* [fontsinuse](fontsinuse.com) - fonts with context
+* [fontsinthewild](fontsinthewild.com) - fonts with context 
+* []() - 
 
 ### Design
 * [Resources for designers](https://resourcesfordesigner.com/) -  directory of tools and resources for designer to build your startup
