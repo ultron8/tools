@@ -73,6 +73,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
  	* [App Promo](https://previewed.app/app-promo-video/?ref=betalist) - eye-catching promo videos in minutes
  	* [Threed](https://threed.io/) - mockup generator
  	* [artboard studio](http://artboard.studio/) - create mockups online
+ 	* [rotato](rotato.app) - instant mockup generator
 
 
 ### Front-End Development
