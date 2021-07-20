@@ -78,7 +78,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
 
 ### Front-End Development
 * [Landing Page](#landingpage) - Landing Page Tools
- 	* [landingpage checklist]{landingpage.fyi) - complete library of resources for building high-​converting landing pages
+ 	* [landingpage checklist](landingpage.fyi) - complete library of resources for building high-​converting landing pages
 	* [On Universe](https://onuniverse.com/) - makes it easy for anyone to make a great looking website in minutes
 	* [Vev Design](https://www.vev.design/) - all-in-one platform to create some web exp.
 	* [lapa ninja](lapa.ninja) - landing page examples
