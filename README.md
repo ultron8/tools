@@ -74,6 +74,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, tools.
  	* [Threed](https://threed.io/) - mockup generator
  	* [artboard studio](http://artboard.studio/) - create mockups online
  	* [rotato](rotato.app) - instant mockup generator
+ 	* [cleanmock](https://www.producthunt.com/posts/cleanmock) - Create stunning mockups that make your design standout
+ 	* [UX/UI Beginner](https://uxdesign.cc/ultimate-start-guide-for-beginner-ux-ui-designer-b848be089589) - start-guide-for-beginner-ux-ui-designer
+
 
 
 ### Front-End Development
